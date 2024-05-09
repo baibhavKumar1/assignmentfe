@@ -22,21 +22,21 @@ export const Founder=()=>{
                 <p>Experience</p>
                 <div className='*:flex *:gap-2'>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
                         </div>
                     </div>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
                         </div>
                     </div>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
@@ -47,14 +47,14 @@ export const Founder=()=>{
             <div className='flex flex-col w-1/3'>
                 <p>Education</p>
                 <div className='flex gap-2'>
-                    <Image alt='img'/>
+                    {/* <Image alt='img'/> */}
                     <div>
                         <p>Birla Institute of Technology & Science, Pilani</p>
                         <p>2016 - 2022</p>
                     </div>
                 </div>
                 <div className='flex gap-2'>
-                    <Image alt='img'/>
+                    {/* <Image alt='img'/> */}
                     <div>
                         <p>Birla Institute of Technology & Science, Pilani</p>
                         <p>2016 - 2022</p>
@@ -76,21 +76,21 @@ export const Founder=()=>{
                 <p>Experience</p>
                 <div className='*:flex *:gap-2'>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
                         </div>
                     </div>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
                         </div>
                     </div>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
@@ -101,14 +101,14 @@ export const Founder=()=>{
             <div className='flex flex-col w-1/3'>
                 <p>Education</p>
                 <div className='flex gap-2'>
-                    <Image alt='img'/>
+                    {/* <Image alt='img'/> */}
                     <div>
                         <p>Birla Institute of Technology & Science, Pilani</p>
                         <p>2016 - 2022</p>
                     </div>
                 </div>
                 <div className='flex gap-2'>
-                    <Image alt='img'/>
+                    {/* <Image alt='img'/> */}
                     <div>
                         <p>Birla Institute of Technology & Science, Pilani</p>
                         <p>2016 - 2022</p>
@@ -130,21 +130,21 @@ export const Founder=()=>{
                 <p>Experience</p>
                 <div className='*:flex *:gap-2'>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
                         </div>
                     </div>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
                         </div>
                     </div>
                     <div>
-                        <Image alt='img'/>
+                        {/* <Image alt='img'/> */}
                         <div>
                         <p>Co-Founder & CTO</p>
                         <div className='flex gap-2'><p>Zeko</p><p>Nov 2022 - Present</p></div>
@@ -155,14 +155,14 @@ export const Founder=()=>{
             <div className='flex flex-col w-1/3'>
                 <p>Education</p>
                 <div className='flex gap-2'>
-                    <Image alt='img'/>
+                    {/* <Image alt='img'/> */}
                     <div>
                         <p>Birla Institute of Technology & Science, Pilani</p>
                         <p>2016 - 2022</p>
                     </div>
                 </div>
                 <div className='flex gap-2'>
-                    <Image alt='img'/>
+                    {/* <Image alt='img'/> */}
                     <div>
                         <p>Birla Institute of Technology & Science, Pilani</p>
                         <p>2016 - 2022</p>

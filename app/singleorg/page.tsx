@@ -12,7 +12,7 @@ const SingleOrg: React.FC = () => {
             <div className='flex items-center gap-5'>
             <ArrowLeftOutlined />
             <div className='flex items-center flex-1 justify-between'>
-                <Image alt='img'/>
+                {/* <Image alt='img'/> */}
                 <div className='flex flex-col'>
                     <div className='flex gap-2 items-center'><p>Zeko Tech</p><p className='text-xs '>SaaS</p></div>
                     <div className='flex text-xs'><p>Source Research</p> | <p>LinkedIn</p></div>
